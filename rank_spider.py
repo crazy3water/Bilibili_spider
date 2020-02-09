@@ -15,7 +15,7 @@ class Rank_Spider():
 
         ]
         self.Cookie = [
-            "sid=8glpfwd9; __guid=104670726.1178218449114775800.1581048931764.8896; CURRENT_FNVAL=16; _uuid=F967601F-447D-3271-6390-5A1BA6641FAB32550infoc; buvid3=D879342A-3E6F-4277-9DBD-FFBA072DA67D53938infoc; LIVE_BUVID=AUTO9515810492969194; monitor_count=1 Host:www.bilibili.com"
+            "自己的cookie"
 
 
         ]
